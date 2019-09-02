@@ -27,7 +27,7 @@ RiskGenius is a company which provides software-based natural language processin
 
 ## How did the idea for the company (or project) come about?
 
-RiskGenius is a child of another product by co-founders of ClaimKit, Chris Cheatham and Doug Reiser. Their journey began as frustrated insurance attorneys before 2011. Unsatisfied with the messy insurance documentation, they came together to create improve claim documents. The two created ClaimKit, a software and services offering to collect, organize and deliver claim documents to attorneys, consultants, accountants, and claim handlers. Through this process, Doug and Chris teamed up with Dan Burtchett to build document management software and Tyler Round to collect and process electronic data. 
+RiskGenius is a child of another product by co-founders of ClaimKit, Chris Cheatham and Doug Reiser. Their journey began as frustrated insurance attorneys before 2011. Unsatisfied with the messy insurance documentation, they came together to create and improve claim documents. The two created ClaimKit, a software and services offering to collect, organize and deliver claim documents to attorneys, consultants, accountants, and claim handlers. Through this process, Doug and Chris teamed up with Dan Burtchett to build document management software and Tyler Round to collect and process electronic data. 
 
 While working a large claim in 2014, Chris was contacted by an underwriter wanting to access the ClaimKit software. After briefly reviewing documents, the underwriter called back to ask if the software could be used for policy analysis. The ClaimKit team began exploring what policy analysis entailed. In 2015, the team also worked on a pilot project to apply machine learning to a large library of insurance policies. The team eventually had the idea to connect the two — Policy Analysis software and Machine Learning — and RiskGenius was born. The RiskGenius software product was launched in early 2016, after a year and a half of development and feedback from Beta users. 
 
@@ -152,7 +152,7 @@ Blockchain is so that changes, flows, and changes of the report can be recorded 
 
 
 # Presentation
-[RiskGenius - Case Study](https://www.google.com)
+[RiskGenius - Case Study](https://docs.google.com/presentation/d/1ONvFANhKQMbK3lrl1uhZZGVnWc-kZGsq2u_wYipGU4E/edit?usp=sharing)
 
 
 
